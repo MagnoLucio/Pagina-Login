@@ -27,9 +27,3 @@ Este repositório contém uma página de login simples e responsiva, criada para
 Este projeto foi desenvolvido com a intenção de praticar habilidades de **front-end** e servir como exemplo para futuras implementações, como integração com sistemas de autenticação e bancos de dados.
 
 ---
-
-## 📂 Como Usar
-
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/magnolucio/Pagina-Login.git
